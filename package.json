@@ -1,0 +1,13 @@
+{
+  "name": "mu-an",
+  "version": "1.0.0",
+  "description": "Don't mind me I realized I can be a custom element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mu-An Chiou",
+  "repository": "github:muan/mu-an-element",
+  "license": "MIT"
+}
